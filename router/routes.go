@@ -1,7 +1,7 @@
 package router
 
 import (
-	"github.com/buongermino/jobs-opportunities.git/router/handler"
+	"github.com/buongermino/jobs-opportunities.git/handler"
 	"github.com/gin-gonic/gin"
 )
 
